@@ -5,3 +5,4 @@ Learning on CLI
 It's Demand on the market
 Learning Git
 Basic networking also need on Devops
+We are using a java project
