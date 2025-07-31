@@ -3,3 +3,4 @@ Learning Devops
 It's a new Tech
 Learning on CLI
 It's Demand on the market
+Learning Git
